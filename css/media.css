@@ -1,0 +1,1147 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+    /*Menu*/
+    .t_center {
+        text-align: center !important;
+    }
+
+    .l_txt {
+        font-size: 25px;
+        font-weight: 400;
+        color: #333333;
+    }
+
+    /*Menu*/
+    /*Slider*/
+    .c-cap {
+        padding: 5px;
+        width: 100%;
+        height: 50%;
+        left: 0;
+        right: 0;
+        bottom: 45%;
+        text-align: center;
+    }
+
+    .c-img {
+        min-height: 250px;
+    }
+
+    .c-cap h1 {
+        font-size: 20px;
+    }
+
+    .c-cap p {
+        font-size: 14px;
+    }
+
+    .c-cap button {
+        font-size: 14px;
+    }
+
+    .cap-btn {
+        width: 140px;
+        height: 40px;
+    }
+
+    .c-prev {
+        left: 10%;
+    }
+
+    .c-next {
+        right: auto;
+        left: 80%;
+    }
+
+    .c-next-icon .c-prev-icon {
+        font-size: 14px;
+    }
+
+    .c-ind {
+        left: 46%;
+    }
+
+    .c-ind [data-bs-target] {
+        width: 3px;
+        height: 14px;
+    }
+
+    /*Slider*/
+    /*Welcome*/
+    .s_top {
+        margin-bottom: 8px;
+        height: 35px;
+    }
+
+    .s_h1 {
+        font-size: 22px;
+    }
+
+    .serv_text {
+        margin-top: 20px;
+    }
+
+    /*Welcome*/
+    /*Service*/
+    .single_service {
+        margin: 50px 0 0;
+        border: 2px solid #8e8e8e;
+        padding: 0 15px 0;
+        transition: .3s;
+    }
+
+    .single_service:last-child {
+        margin-bottom: 50px;
+    }
+
+    /*Service*/
+    /*About*/
+    .about {
+        padding-bottom: 45px;
+    }
+
+    .about_img {
+        text-align: center;
+        width: 100%;
+    }
+
+    .about_text {
+        text-align: center;
+    }
+
+    .about_text h2 {
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+
+    .about_btn {
+        margin-bottom: 10px;
+        width: 140px;
+        height: 40px;
+        font-size: 14px;
+    }
+
+    .about_btn i {
+        left: -5px;
+    }
+
+    /*About*/
+    /*recent*/
+    .recent {
+        padding-bottom: 50px;
+    }
+
+    .custom_navpill {
+        margin: 20px 0;
+    }
+
+    /*recent*/
+    /*choose*/
+    .choose_mt {
+        margin-top: 20px;
+    }
+
+    .choose_item_title h3 {
+        margin-top: 0px;
+        margin-left: 15px;
+        font-size: 22px;
+    }
+
+    .choose_item_text p {
+        font-size: 14px;
+        padding: 18px 0;
+    }
+
+    .choose_border {
+        width: 100%;
+        height: 1px;
+        background-color: #8e8e8e;
+    }
+
+    /*choose*/
+    /*portfolio*/
+    .portfolio {
+        margin-top: 50px;
+    }
+
+    .worker {
+        padding: 50px 0 0;
+    }
+
+    .worker:last-child {
+        padding-bottom: 50px;
+    }
+
+    /*portfolio*/
+    /*price*/
+    .pricing {
+        margin-bottom: 50px;
+    }
+
+    .pad_price {
+        margin-bottom: 40px;
+    }
+
+    .pricing_item {
+        margin-bottom: 25px;
+    }
+
+    .pricing_item ul {
+        margin: 20px 0;
+    }
+
+    .pricing_list {
+        padding: 50px 30px 40px;
+    }
+
+    .price_btn button {
+        width: 160px;
+        height: 40px;
+        font-size: 14px;
+    }
+
+    /*price*/
+    /*Buy*/
+    .buy {
+        margin-bottom: 50px;
+    }
+
+    .buy_title {
+        display: block;
+        text-align: center !important;
+    }
+
+    .buy_title p {
+        font-size: 14px;
+    }
+
+    /*Buy*/
+    /*contact*/
+    .contact {
+        margin-bottom: 50px;
+    }
+
+    .cont_cus_form {
+        padding-left: 20px;
+        font-size: 14px;
+    }
+
+    /*contact*/
+    /*footer*/
+    .footer_title p {
+        color: #ffffff;
+        margin: 30px 0;
+    }
+
+    .footer_social_links ul {
+        margin-bottom: 50px;
+    }
+
+    .footer_social_links ul li {
+        margin: 5% 12% 0;
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+    }
+
+    .footer_social_links ul li a {
+        font-size: 22px;
+    }
+
+    .footer_left p {
+        text-align: center !important;
+        margin: 0 20px;
+        color: #ffffff;
+    }
+
+    .footer_margin {
+        padding: 16px;
+    }
+
+    .footer-right {
+        text-align: center;
+
+    }
+
+    .footer-right ul {
+        margin: 0 auto;
+        padding: 15px 10px 0;
+    }
+
+    .footer-right ul li {}
+
+    .footer-right ul li a {
+        padding: 0 15px;
+    }
+
+    /*footer*/
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /*Menu*/
+    .t_center {
+        text-align: center !important;
+    }
+
+    .l_txt {
+        font-size: 25px;
+        font-weight: 400;
+        color: #333333;
+    }
+
+    /*Menu*/
+    /*Slider*/
+    .c-cap {
+        padding: 5px;
+        width: 100%;
+        height: 50%;
+        left: 0;
+        right: 0;
+        bottom: 45%;
+        text-align: center;
+    }
+
+    .c-img {
+        min-height: 250px;
+    }
+
+    .c-cap h1 {
+        font-size: 20px;
+    }
+
+    .c-cap p {
+        font-size: 14px;
+    }
+
+    .c-cap button {
+        font-size: 14px;
+    }
+
+    .cap-btn {
+        width: 140px;
+        height: 40px;
+    }
+
+    .c-prev {
+        left: 10%;
+    }
+
+    .c-next {
+        right: auto;
+        left: 80%;
+    }
+
+    .c-next-icon .c-prev-icon {
+        font-size: 14px;
+    }
+
+    .c-ind {
+        left: 46%;
+    }
+
+    .c-ind [data-bs-target] {
+        width: 3px;
+        height: 14px;
+    }
+
+    /*Slider*/
+    /*Welcome*/
+    .s_top {
+        margin-bottom: 8px;
+        height: 35px;
+    }
+
+    .s_h1 {
+        font-size: 24px;
+    }
+
+    .serv_text {
+        margin-top: 20px;
+    }
+
+    /*Welcome*/
+    /*Service*/
+    .single_service {
+        margin: 50px 0 0;
+        border: 2px solid #8e8e8e;
+        padding: 0 15px 0;
+        transition: .3s;
+    }
+
+    .single_service:last-child {
+        margin-bottom: 50px;
+    }
+
+    /*Service*/
+    /*About*/
+    .about {
+        padding-bottom: 45px;
+    }
+
+    .about_img {
+        text-align: center;
+        width: 100%;
+    }
+
+    .about_text {
+        text-align: center;
+    }
+
+    .about_text h2 {
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+
+    .about_btn {
+        margin-bottom: 30px;
+        width: 140px;
+        height: 40px;
+        font-size: 14px;
+    }
+
+    .about_btn i {
+        left: -5px;
+    }
+
+    /*About*/
+    /*recent*/
+    .recent {
+        padding-bottom: 50px;
+    }
+
+    .custom_navpill {
+        margin: 20px 0;
+    }
+
+    /*recent*/
+    /*choose*/
+    .choose_mt {
+        margin: 20px 0;
+    }
+
+    .choose_item_title h3 {
+        margin-top: 0px;
+        margin-left: 15px;
+        font-size: 20px;
+    }
+
+    .choose_item_text p {
+        font-size: 14px;
+        padding: 18px 0;
+    }
+
+    .choose_border {
+        width: 100%;
+        height: 1px;
+        background-color: #8e8e8e;
+    }
+
+    /*choose*/
+    /*portfolio*/
+    .portfolio {
+        margin-top: 50px;
+    }
+
+    .worker {
+        padding: 30px 0;
+    }
+
+    .worker:last-child {
+        padding-bottom: 50px;
+    }
+
+    /*portfolio*/
+    /*price*/
+    .pricing {
+        margin-bottom: 50px;
+    }
+
+    .pad_price {
+        margin-bottom: 40px;
+    }
+
+    .pricing_item {
+        margin-bottom: 25px;
+    }
+
+    .pricing_item ul {
+        margin: 20px 0;
+    }
+
+    .pricing_list {
+        padding: 50px 30px 40px;
+    }
+
+    .pricing_item h3 {
+        font-size: 18px;
+    }
+
+    .price_btn button {
+        width: 160px;
+        height: 40px;
+        font-size: 14px;
+    }
+
+    /*price*/
+    /*Buy*/
+    .buy {
+        margin-bottom: 60px;
+    }
+
+    .buy_title {
+        display: block;
+        text-align: center !important;
+    }
+
+    .buy_title p {
+        font-size: 14px;
+    }
+
+    /*Buy*/
+    /*contact*/
+    .contact {
+        margin-bottom: 50px;
+    }
+
+    .cont_cus_form {
+        padding-left: 20px;
+        font-size: 14px;
+    }
+
+    /*contact*/
+    /*footer*/
+    .footer_title p {
+        color: #ffffff;
+        margin: 30px 0;
+    }
+
+    .footer_social_links ul {
+        margin-bottom: 50px;
+    }
+
+    .footer_social_links ul li {
+        margin: 10px 22px;
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+    }
+
+    .footer_social_links ul li a {
+        font-size: 22px;
+    }
+
+    .footer_left p {
+        text-align: center !important;
+        margin: 0 20px;
+        color: #ffffff;
+    }
+
+    .footer_margin {
+        padding: 16px;
+    }
+
+    .footer-right {
+        text-align: center;
+
+    }
+
+    .footer-right ul {
+        margin: 0 auto;
+        padding: 15px 10px 0;
+    }
+
+    .footer-right ul li {}
+
+    .footer-right ul li a {
+        padding: 0 15px;
+    }
+
+    /*footer*/
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /*Menu*/
+    .t_center {
+        text-align: center !important;
+    }
+
+    .l_txt {
+        font-size: 25px;
+        font-weight: 400;
+        color: #333333;
+    }
+
+    /*Menu*/
+    /*Slider*/
+    .c-cap {
+        padding: 5px;
+        width: 100%;
+        height: 30%;
+        left: 0;
+        right: 0;
+        bottom: 45%;
+        text-align: center;
+    }
+
+    .c-img {
+        min-height: 250px;
+    }
+
+    .c-cap h1 {
+        font-size: 28px;
+    }
+
+    .c-cap p {
+        margin: 20px;
+        font-size: 16px;
+    }
+
+    .c-cap button {
+        font-size: 14px;
+    }
+
+    .cap-btn {
+        width: 140px;
+        height: 40px;
+    }
+
+    .c-prev {
+        left: 10%;
+    }
+
+    .c-next {
+        right: auto;
+        left: 80%;
+    }
+
+    .c-next-icon .c-prev-icon {
+        font-size: 14px;
+    }
+
+    .c-ind {
+        left: 48%;
+    }
+
+    .c-ind [data-bs-target] {
+        width: 3px;
+        height: 14px;
+    }
+
+    /*Slider*/
+    /*Welcome*/
+    .s_top {
+        margin-bottom: 8px;
+        height: 35px;
+    }
+
+    .s_h1 {
+        font-size: 24px;
+    }
+
+    .serv_text {
+        margin-top: 20px;
+    }
+
+    /*Welcome*/
+    /*Service*/
+    .single_service {
+        margin: 50px 0 0;
+        border: 2px solid #8e8e8e;
+        padding: 0 15px 0;
+        transition: .3s;
+    }
+
+    .single_service:last-child {
+        margin-bottom: 50px;
+    }
+
+    /*Service*/
+    /*About*/
+    .about {
+        padding-bottom: 45px;
+    }
+
+    .about_img {
+        text-align: center;
+        width: 100%;
+    }
+
+    .about_text {
+        text-align: center;
+    }
+
+    .about_text h2 {
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+
+    .about_btn {
+        margin-bottom: 30px;
+        width: 140px;
+        height: 40px;
+        font-size: 14px;
+    }
+
+    .about_btn i {
+        left: -5px;
+    }
+
+    /*About*/
+    /*recent*/
+    .recent {
+        padding-bottom: 50px;
+    }
+
+    .custom_navpill {
+        margin: 20px 0;
+    }
+
+    /*recent*/
+    /*choose*/
+    .choose_mt {
+        margin: 20px 0;
+    }
+
+    .choose_item_title h3 {
+        margin-top: 0px;
+        margin-left: 15px;
+        font-size: 20px;
+    }
+
+    .choose_item_text p {
+        font-size: 14px;
+        padding: 18px 0;
+    }
+
+    .choose_border {
+        width: 100%;
+        height: 1px;
+        background-color: #8e8e8e;
+    }
+
+    /*choose*/
+    /*portfolio*/
+    .portfolio {
+        margin-top: 50px;
+    }
+
+    .worker {
+        padding: 30px 0;
+    }
+
+    .worker:last-child {
+        padding-bottom: 50px;
+    }
+
+    /*portfolio*/
+    /*price*/
+    .pricing {
+        margin-bottom: 50px;
+    }
+
+    .pad_price {
+        margin-bottom: 40px;
+    }
+
+    .pricing_item {
+        margin-bottom: 25px;
+    }
+
+    .pricing_item ul {
+        margin: 20px 0;
+    }
+
+    .pricing_list {
+        padding: 50px 30px 40px;
+    }
+
+    .pricing_item h3 {
+        font-size: 18px;
+    }
+
+    .price_btn button {
+        width: 160px;
+        height: 40px;
+        font-size: 14px;
+    }
+
+    /*price*/
+    /*Buy*/
+    .buy {
+        margin-bottom: 60px;
+    }
+
+    .buy_title {
+        display: block;
+        text-align: center !important;
+    }
+
+    .buy_title p {
+        font-size: 14px;
+    }
+
+    /*Buy*/
+    /*contact*/
+    .contact {
+        margin-bottom: 50px;
+    }
+
+    .cont_cus_form {
+        padding-left: 20px;
+        font-size: 16px;
+    }
+
+    /*contact*/
+    /*footer*/
+    .footer_title p {
+        color: #ffffff;
+        margin: 30px 0;
+    }
+
+    .footer_social_links ul {
+        margin-bottom: 50px;
+    }
+
+    .footer_social_links ul li {
+        margin: 10px 22px;
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+    }
+
+    .footer_social_links ul li a {
+        font-size: 22px;
+    }
+
+    .footer_left p {
+        text-align: center !important;
+        margin: 0 20px;
+        color: #ffffff;
+    }
+
+    .footer_margin {
+        padding: 16px;
+    }
+
+    .footer-right {
+        text-align: center;
+
+    }
+
+    .footer-right ul {
+        margin: 0 auto;
+        padding: 15px 10px 0;
+    }
+
+    .footer-right ul li {}
+
+    .footer-right ul li a {
+        padding: 0 15px;
+    }
+
+    /*footer*/
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /*Menu*/
+    .t_center {
+        text-align: center !important;
+    }
+
+    .l_txt {
+        font-size: 26px;
+        font-weight: 400;
+        color: #333333;
+    }
+
+    /*Menu*/
+    /*Slider*/
+    .c-cap {
+        padding: 10px;
+        width: 100%;
+        height: 30%;
+        left: 0;
+        right: 0;
+        bottom: 45%;
+        text-align: center;
+    }
+
+    .c-img {
+        min-height: 250px;
+    }
+
+    .c-cap h1 {
+        font-size: 30px;
+    }
+
+    .c-cap p {
+        font-size: 16px;
+    }
+
+    .c-cap button {
+        font-size: 16px;
+    }
+
+    .cap-btn {
+        width: 200px;
+        height: 50px;
+    }
+
+    .c-prev {
+        left: 5%;
+    }
+
+    .c-next {
+        right: auto;
+        left: 91%;
+    }
+
+    .c-next-icon .c-prev-icon {
+        font-size: 14px;
+    }
+
+    .c-ind {
+        left: 48.5%;
+    }
+
+    .c-ind [data-bs-target] {
+        width: 3px;
+        height: 15px;
+    }
+
+    /*Slider*/
+    /*Welcome*/
+    .s_top {
+        margin-bottom: 8px;
+        height: 35px;
+    }
+
+    .s_h1 {
+        font-size: 24px;
+    }
+
+    .serv_text {
+        margin-top: 20px;
+    }
+
+    /*Welcome*/
+    /*Service*/
+    .single_service {
+        margin: 50px 0 0;
+        border: 2px solid #8e8e8e;
+        padding: 0 15px 0;
+        transition: .3s;
+    }
+
+    .single_service:last-child {
+        margin-bottom: 50px;
+    }
+
+    /*Service*/
+    /*About*/
+    .about {
+        padding-bottom: 45px;
+    }
+
+    .about_img {
+        text-align: center;
+        width: 100%;
+    }
+
+    .about_text {
+        text-align: center;
+    }
+
+    .about_text h2 {
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+
+    .about_btn {
+        margin-bottom: 30px;
+        width: 140px;
+        height: 40px;
+        font-size: 14px;
+    }
+
+    .about_btn i {
+        left: -5px;
+    }
+
+    /*About*/
+    /*recent*/
+    .recent {
+        padding-bottom: 50px;
+    }
+
+    .custom_navpill {
+        margin: 20px 0;
+    }
+
+    /*recent*/
+    /*choose*/
+    .choose_mt {
+        margin: 20px 0;
+    }
+
+    .choose_item_title h3 {
+        margin-top: 0px;
+        margin-left: 15px;
+        font-size: 20px;
+    }
+
+    .choose_item_text p {
+        font-size: 14px;
+        padding: 18px 0;
+    }
+
+    .choose_border {
+        width: 250px;
+        height: 1px;
+        background-color: #8e8e8e;
+    }
+
+    /*choose*/
+    /*portfolio*/
+    .portfolio {
+        margin-top: 50px;
+    }
+
+    .worker {
+        padding: 30px 0;
+    }
+
+    .worker:last-child {
+        padding-bottom: 50px;
+    }
+
+    .worker_info h3 {
+        font-size: 16px;
+    }
+
+    /*portfolio*/
+    /*price*/
+    .pricing {
+        margin-bottom: 50px;
+    }
+
+    .pad_price {
+        margin-bottom: 40px;
+    }
+
+    .pricing_item {
+        margin-bottom: 25px;
+    }
+
+    .pricing_item ul {
+        margin: 20px 0;
+    }
+
+    .pricing_item ul li {
+        font-size: 14px;
+    }
+
+    .pricing_list {
+        padding: 50px 30px 40px;
+    }
+
+    .pricing_item h3 {
+        font-size: 13px;
+    }
+
+    .price_btn button {
+        width: 160px;
+        height: 40px;
+        font-size: 14px;
+    }
+
+    /*price*/
+    /*Buy*/
+    .buy {
+        margin-bottom: 60px;
+    }
+
+    .buy_title {
+        display: block;
+        text-align: center !important;
+    }
+
+    .buy_title p {
+        font-size: 16px;
+    }
+
+    /*Buy*/
+    /*contact*/
+    .contact {
+        margin-bottom: 50px;
+    }
+
+    .cont_cus_form {
+        padding-left: 20px;
+        font-size: 16px;
+    }
+
+    /*contact*/
+    /*footer*/
+    .footer_title p {
+        line-height: 26px;
+        color: #ffffff;
+        margin: 30px 0;
+    }
+
+    .footer_social_links ul {
+        margin-bottom: 50px;
+    }
+
+    .footer_social_links ul li {
+        margin: 10px 22px;
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+    }
+
+    .footer_social_links ul li a {
+        font-size: 22px;
+    }
+
+    .footer_left p {
+        text-align: center !important;
+        margin: 0 20px;
+        color: #ffffff;
+    }
+
+    .footer_margin {
+        padding: 16px;
+    }
+
+    .footer-right {
+        text-align: center;
+
+    }
+
+    .footer-right ul {
+        margin: 0 auto;
+        padding: 15px 10px 0;
+    }
+
+    .footer-right ul li {}
+
+    .footer-right ul li a {
+        padding: 0 15px;
+    }
+
+    /*footer*/
+}
+
+/* Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+/* Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {}
